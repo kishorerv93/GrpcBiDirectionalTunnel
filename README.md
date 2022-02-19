@@ -19,3 +19,4 @@ SSLProxyEngine On
 ```
 
 After that you can simply start client and server. The client waits 5 seconds before connecting to the server and after waiting another 10 seconds, it sends the first message.
+![image](https://user-images.githubusercontent.com/22155528/154780509-0a39dfbb-94dd-46a1-a5cd-3012f55df019.png)
