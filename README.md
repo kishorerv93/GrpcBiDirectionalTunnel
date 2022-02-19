@@ -1,4 +1,4 @@
-# grpc-bidirectional-csharp
+# gRPC BiDirectional Tunnel
 
 Simple gRPC client and server using bidirectional streaming. The client connects to the backend server through the Apache WebServer http2 proxy. In order to get this example working, Apache needs to have SSL enabled and run on the default port 443. The mod_http2/mod_proxy_http2 modules have to be configured as following:
 
