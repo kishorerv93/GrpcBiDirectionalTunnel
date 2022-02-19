@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Tunnel.cs \
+obj\Debug\netcoreapp3.1/TunnelGrpc.cs: ../GrpcService/Protos/Tunnel.proto
